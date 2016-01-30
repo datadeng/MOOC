@@ -1,6 +1,6 @@
-#大数据导论
+#Introduction to Big Data
 
-##welcome to big data
+###welcome to big data
 + 字节转换：Kilobyte〈KB〉=1024 bytes 
 Megabyte〈MB〉=1024 Kilobytes 
 Gigabyte〈GB〉=1024 Megabytes 
@@ -11,7 +11,7 @@ Zettabyte〈ZB〉=1024 exabytes
 Yottabyte〈YB〉=1024 zettabytes 
 + 数据爆炸：over 90% and less than 95% percentage of world's data was created in the last 2 years
 
-##The Emerging Big Data Stack （新兴的大数据栈？）
+###The Emerging Big Data Stack （新兴的大数据栈？）
 + Functional requirements：collection，integration(组织)，analysis，actions decisions
 + What we need：Real-Time（实时的），Scalable(可扩展的),High Performance（高性能的计算分析）
 + Hadoop come to exist：Compute+Storage
